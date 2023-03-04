@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"javadoc.examples","l":"net.openwebinars.javadoc"},{"m":"javadoc.examples","l":"net.openwebinars.javadoc.avanzada"},{"m":"javadoc.examples","l":"net.openwebinars.javadoc.basica"},{"m":"javadoc.examples","l":"net.openwebinars.javadoc.estadistica"}];updateSearchResults();

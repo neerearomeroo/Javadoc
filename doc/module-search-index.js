@@ -1,0 +1,1 @@
+moduleSearchIndex = [{"l":"javadoc.examples"}];updateSearchResults();

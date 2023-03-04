@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"javadoc.examples","l":"net.belen.javadoc.basica"}];updateSearchResults();
